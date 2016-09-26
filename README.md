@@ -6,7 +6,8 @@ This is a modified sample code from [WWDC 2016 (session 509)](https://developer.
 
 ## How it works?
 
-I wrote a short article about how to use Speech Recognition.
+[I wrote a short article](https://blog.gaelfoppolo.com/speech-framework-in-ios-10-99affac88ba7) about how to use Speech Recognition.
+
 Open an issue if you want more information :)
 
 ## Demo
